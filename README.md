@@ -12,7 +12,7 @@ yarn add vtril-progress
 Once it's been installed, initialize it in your app:
 
 ```js
-import { VtrilProgress } from "vtril-progress";
+import VtrilProgress from "vtril-progress";
 
 VtrilProgress.init({
   // The delay after which the progress bar will
